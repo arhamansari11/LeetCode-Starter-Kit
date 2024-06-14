@@ -1,7 +1,7 @@
 
 ## Arrays
 
-| #  | Problem                                               | Difficulty |
+| No.  | Problem                                               | Difficulty |
 |----|-------------------------------------------------------|------------|
 | 1  | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)                   | Easy       |
 | 2  | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                               | Easy       |
