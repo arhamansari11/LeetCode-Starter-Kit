@@ -1,6 +1,6 @@
 ## Binary Search
 
-| #  | Problem                                           | Difficulty |
+| No.  | Problem                                           | Difficulty |
 |----|---------------------------------------------------|------------|
 | 1  | [Binary Search](https://leetcode.com/problems/binary-search/)                                           | Easy       |
 | 2  | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                       | Easy       |
