@@ -1,2 +1,2 @@
 # LeetCode-Starter-Kit
-This repository contains links to LeetCode problems that I've solved, specially curated for beginners. Each problem is categorized by difficulty and topic, making it easy for you to navigate and practice. Start your coding journey here and build a strong foundation in problem-solving!
+Welcome to the LeetCode-Starter-Kit repository! This repo contains links to LeetCode problems that I've solved, curated especially for those who are just starting their LeetCode journey. Each problem is categorized by difficulty and topic to help you navigate and practice efficiently. Start your coding adventure here and build a solid foundation in problem-solving!
