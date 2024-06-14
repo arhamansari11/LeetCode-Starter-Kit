@@ -76,4 +76,7 @@ Welcome to the LeetCode-Starter-Kit repository! This repo contains links to Leet
 | 67 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                       | Medium     |
 | 68 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)               | Medium     |
 | 69 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                           | Medium     |
-| 70 | [Minimum
+| 70 | [Minimum-number-of-moves-to-seat-everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Medium     |
+| 71 | [Array-partition](https://leetcode.com/problems/array-partition/)                   | Easy   |
+| 72 | [Minimum-number-of-chairs-in-a-waiting-room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/)                   | Medium   |
+
