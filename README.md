@@ -6,7 +6,9 @@ Welcome to **LeetCode-Solutions-For-Beginners**, your repository for mastering L
 
 This repository contains a curated collection of LeetCode problems that I've solved, specifically designed for those who are just starting their LeetCode journey. Each problem includes a solution and is categorized by difficulty and topic.
 
-**Visit the live repository:** [Daily_LeetCoding](https://github.com/arhamansari11/Daily_LeetCoding)
+## Solutions
+
+If you want solutions of these problems  **Visit the live repository:** [Daily_LeetCoding](https://github.com/arhamansari11/Daily_LeetCoding).
 
 ## Features
 
@@ -24,7 +26,7 @@ This repository contains a curated collection of LeetCode problems that I've sol
 
 ## Contributing
 
-Contributions are welcome! If you have a new solution to add or want to improve an existing one, please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you have a new solution to add or want to improve an existing one just contribute.
 
 ## Connect
 
