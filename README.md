@@ -8,7 +8,7 @@ This repository contains a curated collection of LeetCode problems that I've sol
 
 ## Solutions
 
-If you want solutions of these problems  **Visit the live repository:** [Daily_LeetCoding](https://github.com/arhamansari11/Daily_LeetCoding).
+If you'd like to see solutions to the problems mentioned above, please visit the live repository: [Daily_LeetCoding](https://github.com/arhamansari11/Daily_LeetCoding).
 
 ## Features
 
