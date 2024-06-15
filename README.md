@@ -26,9 +26,19 @@ If you'd like to see solutions to the problems mentioned above, please visit the
 
 ## Contributing
 
-Contributions are welcome! If you have a new solution to add or want to improve an existing one just contribute.
+Contributions are welcome! If you have a new solution to add or want to improve an existing one:
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add new solution'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+## Seeking Help
+
+If you have any questions, need help with a problem, or want to discuss algorithms, feel free to:
+- **Open an Issue**: Use the Issues tab on GitHub to ask questions or report problems.
+- **Join the Discussion**: Participate in discussions under the Discussions tab on GitHub.
 
 ## Connect
 
-- Find me on [LinkedIn](https://www.linkedin.com/in/arhamansari12/)
-
+- Find me on [LinkedIn](https://www.linkedin.com/in/arhamansari12/).
