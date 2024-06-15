@@ -1,25 +1,34 @@
 # LeetCode-Solutions-For-Beginners
 
-Welcome to **LeetCode-Solutions-For-Beginners**! This repository is your ultimate guide to mastering LeetCode problems as a beginner, providing you with the tools and solutions needed to excel in coding interviews and enhance your algorithmic problem-solving skills.
+Welcome to **LeetCode-Solutions-For-Beginners**, your repository for mastering LeetCode problems as a beginner!
 
-![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
+## About
 
-## 🌟 About
+This repository contains a curated collection of LeetCode problems that I've solved, specifically designed for those who are just starting their LeetCode journey. Each problem includes a solution and is categorized by difficulty and topic.
 
-This repository contains a curated collection of LeetCode problems that I've solved, specifically designed for those who are just starting their LeetCode journey. Each problem includes a well-explained solution and is categorized by difficulty and topic for easy navigation.
+## Solutions
 
-## 🔍 Solutions
+If you'd like to see solutions to the problems mentioned above, please visit the live repository: [Daily_LeetCoding](https://github.com/arhamansari11/Daily_LeetCoding).
 
-To view the solutions to the problems mentioned above, please visit the live repository: [Daily_LeetCoding](https://github.com/arhamansari11/Daily_LeetCoding).
+## Features
 
-## ✨ Features
+- **Comprehensive Coverage**: Solutions to all problems.
+- **Easy Navigation**: Problems categorized by difficulty (Easy, Medium, Hard) and topics.
+- **Detailed Explanations**: Each solution includes a clear explanation.
+- **Regular Updates**: Continuously adding new problems and solutions.
 
-- **Comprehensive Coverage**: Solutions to a wide range of problems, covering all essential topics.
-- **Easy Navigation**: Problems are categorized by difficulty (Easy, Medium, Hard) and topics.
-- **Detailed Explanations**: Each solution comes with a clear and detailed explanation to help you understand the approach.
-- **Regular Updates**: Continuously adding new problems and solutions to keep the repository up-to-date.
+## How to Use
 
-## 📂 Directory Structure
+1. **Explore** the categorized folders (Easy, Medium, Hard) to find problems of interest.
+2. **Click** on a problem link to view the problem statement and solution.
+3. **Understand** the provided solution and its explanation.
+4. **Learn** and improve your problem-solving skills!
 
-The repository is structured to make it easy for you to find the problems and solutions you're interested in. Here's an overview:
+## Contributing
+
+Contributions are welcome! If you have a new solution to add or want to improve an existing one just contribute.
+
+## Connect
+
+- Find me on [LinkedIn](https://www.linkedin.com/in/arhamansari12/)
 
