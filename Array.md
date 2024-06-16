@@ -75,3 +75,4 @@
 | 70 | [Minimum-number-of-moves-to-seat-everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy     |
 | 71 | [Array-partition](https://leetcode.com/problems/array-partition/)                   | Easy   |
 | 72 | [Minimum-number-of-chairs-in-a-waiting-room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/)                   | Medium   |
+| 73 | [Patching-array](https://leetcode.com/problems/patching-array/) | Hard   |
