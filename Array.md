@@ -77,3 +77,4 @@
 | 72 | [Minimum-number-of-chairs-in-a-waiting-room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/)                   | Medium   |
 | 73 | [Patching-array](https://leetcode.com/problems/patching-array/) | Hard   |
 | 74 | [Minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium   |
+| 75 | [Sort-the-people](https://leetcode.com/problems/sort-the-people/) | Easy   |
