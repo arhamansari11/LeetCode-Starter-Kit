@@ -9,3 +9,4 @@
 | 5  | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)       | Medium     |
 | 6  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)               | Easy       |
 | 7  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy       |
+| 8  | [Sort List](https://leetcode.com/problems/sort-list/) | Medium      |
