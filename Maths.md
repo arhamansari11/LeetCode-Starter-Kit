@@ -18,3 +18,4 @@
 | 14 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                           | Easy       |
 | 15 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                       | Easy       |
 | 16 | [Sum-of-squares-of-special-elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)    | Easy       |
+| 17 | [Climbing-stairs](https://leetcode.com/problems/climbing-stairs/)    | Easy       |
