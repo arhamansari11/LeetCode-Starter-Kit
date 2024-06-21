@@ -40,3 +40,7 @@
 | 35 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                 | Easy       |
 | 36 | [Valid Word](https://leetcode.com/problems/valid-word/)                                                 | Medium     |
 | 37 | [Replace Words](https://leetcode.com/problems/replace-words/)                                           | Medium     |
+| 38 | [Add-binary](https://leetcode.com/problems/add-binary/)                                           | Easy    |
+| 39 | [Fizz-buzz](https://leetcode.com/problems/fizz-buzz/)                                           | Easy    |
+| 40 | [Second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string/)            | Easy    |
+| 41 | [Remove-digit-from-number-to-maximize-result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)            | Easy    |
