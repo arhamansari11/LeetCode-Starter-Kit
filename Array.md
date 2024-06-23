@@ -78,3 +78,6 @@
 | 73 | [Patching-array](https://leetcode.com/problems/patching-array/) | Hard   |
 | 74 | [Minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium   |
 | 75 | [Sort-the-people](https://leetcode.com/problems/sort-the-people/) | Easy   |
+| 76 | [Number-of-students-unable-to-eat-lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy   |
+| 77 | [Count-pairs-that-form-a-complete-day-i](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy   |
+| 78 | [Move-zeroes](https://leetcode.com/problems/move-zeroes/) | Easy   |
