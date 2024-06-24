@@ -81,3 +81,5 @@
 | 76 | [Number-of-students-unable-to-eat-lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy   |
 | 77 | [Count-pairs-that-form-a-complete-day-i](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy   |
 | 78 | [Move-zeroes](https://leetcode.com/problems/move-zeroes/) | Easy   |
+| 79 | [Final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Easy   |
+| 80 | [First-missing-positive](https://leetcode.com/problems/first-missing-positive/) | Hard  |
