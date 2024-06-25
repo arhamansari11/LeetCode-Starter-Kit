@@ -10,3 +10,4 @@
 | 6  | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy |
 | 7  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                     | Easy       |
 | 8  | [Make the String Great](https://leetcode.com/problems/make-the-string-great/)                           | Easy        |
+| 9  | [Remove-k-digits](https://leetcode.com/problems/remove-k-digits/)                           | Medium        |
