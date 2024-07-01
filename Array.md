@@ -83,3 +83,4 @@
 | 78 | [Move-zeroes](https://leetcode.com/problems/move-zeroes/) | Easy   |
 | 79 | [Final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Easy   |
 | 80 | [First-missing-positive](https://leetcode.com/problems/first-missing-positive/) | Hard  |
+| 81 | [Three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy  |
