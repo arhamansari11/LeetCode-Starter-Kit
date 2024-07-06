@@ -42,5 +42,6 @@
 | 37 | [Replace Words](https://leetcode.com/problems/replace-words/)                                           | Medium     |
 | 38 | [Add-binary](https://leetcode.com/problems/add-binary/)                                           | Easy    |
 | 39 | [Fizz-buzz](https://leetcode.com/problems/fizz-buzz/)                                           | Easy    |
-| 40 | [Second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string/)            | Easy    |
-| 41 | [Remove-digit-from-number-to-maximize-result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)            | Easy    |
+| 40 | [Valid-palindrome](https://leetcode.com/problems/valid-palindrome/)                                           | Easy    |
+| 41 | [Second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string/)            | Easy    |
+| 42 | [Remove-digit-from-number-to-maximize-result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)            | Easy    |
