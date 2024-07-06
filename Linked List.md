@@ -10,3 +10,5 @@
 | 6  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)               | Easy       |
 | 7  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy       |
 | 8  | [Sort List](https://leetcode.com/problems/sort-list/) | Medium      |
+| 9  | [Merge-nodes-in-between-zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium      |
+| 10  | [Find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium      |
