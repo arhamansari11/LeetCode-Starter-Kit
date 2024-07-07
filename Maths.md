@@ -20,3 +20,5 @@
 | 16 | [Sum-of-squares-of-special-elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)    | Easy       |
 | 17 | [Climbing-stairs](https://leetcode.com/problems/climbing-stairs/)    | Easy       |
 | 18 | [Ugly-number](https://leetcode.com/problems/ugly-number/)    | Easy       |
+| 19 | [Water-bottles](https://leetcode.com/problems/water-bottles/)    | Easy       |
+| 20 | [Ransom-note](https://leetcode.com/problems/ransom-note/)    | Easy       |
