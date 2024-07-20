@@ -9,3 +9,4 @@
 | 5  | [Adding-spaces-to-a-string](https://leetcode.com/problems/adding-spaces-to-a-string/)                             | Medium     |
 | 6  | [Apply-operations-to-an-array](https://leetcode.com/problems/apply-operations-to-an-array/)   | Easy     |
 | 7  | [Minimum-average-of-smallest-and-largest-elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/)   | Easy     |
+| 8  | [Rearrange-array-elements-by-sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)   | Medium     |
