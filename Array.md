@@ -84,3 +84,5 @@
 | 79 | [Final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Easy   |
 | 80 | [First-missing-positive](https://leetcode.com/problems/first-missing-positive/) | Hard  |
 | 81 | [Three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy  |
+| 82 | [Number-of-senior-citizens](https://leetcode.com/problems/number-of-senior-citizens) | Easy  |
+| 83 | [Make-two-arrays-equal-by-reversing-subarrays/](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | Easy  |
