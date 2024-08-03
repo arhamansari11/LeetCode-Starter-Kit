@@ -45,4 +45,5 @@
 | 40 | [Valid-palindrome](https://leetcode.com/problems/valid-palindrome/)                                           | Easy    |
 | 41 | [Second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string/)            | Easy    |
 | 42 | [Remove-digit-from-number-to-maximize-result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)            | Easy    |
-| 43 | [Check-if-string-is-a-prefix-of-array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)            | Easy    |
+| 43 | [Check-if-string-is-a-prefix-of-array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)  | Easy    |
+| 44 | [Check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)  | Easy    |
