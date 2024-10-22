@@ -18,3 +18,4 @@
 | 14  | [Count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes/)  | Easy |
 | 15  | [Path-sum](https://leetcode.com/problems/path-sum/)  | Easy |
 | 16  | [Path-sum-ii](https://leetcode.com/problems/path-sum-ii/)  | Medium |
+| 17  | [Kth-largest-sum-in-a-binary-tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)  | Medium |
