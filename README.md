@@ -1,4 +1,4 @@
-# LeetCode-Solutions-For-Beginners
+# LeetCode-Solutions-For-Beginners 
 
 Welcome to **LeetCode-Solutions-For-Beginners**, your repository for mastering LeetCode problems as a beginner! 
 
